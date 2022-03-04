@@ -8,6 +8,8 @@ import { InputDataComponent } from './input-data/input-data.component';
 import { InputSexoComponent } from './input-sexo/input-sexo.component';
 import { InputCorComponent } from './input-cor/input-cor.component';
 import { InputHobbiesComponent } from './input-hobbies/input-hobbies.component';
+import { InputUfComponent } from './input-uf/input-uf.component';
+import { InputButtonComponent } from './input-button/input-button.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { InputHobbiesComponent } from './input-hobbies/input-hobbies.component';
     InputDataComponent,
     InputSexoComponent,
     InputCorComponent,
-    InputHobbiesComponent
+    InputHobbiesComponent,
+    InputUfComponent,
+    InputButtonComponent
   ],
   imports: [
     BrowserModule

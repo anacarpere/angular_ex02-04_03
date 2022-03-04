@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-input-sexo',
+  selector: 'input-sexo',
   templateUrl: './input-sexo.component.html',
   styleUrls: ['./input-sexo.component.css']
 })
